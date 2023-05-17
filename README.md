@@ -1,8 +1,8 @@
-### Hi 👋 My name is Abdullah and currently I study computer engineering in Boğaziçi University. 
-#### I share my Data Science and Game Development projects in my repositories. 
+## Hi 👋 My name is Abdullah and currently I study computer engineering in Boğaziçi University. 
+### I share my Data Science and Game Development projects in my repositories. 
 
-### CONTACT
-#### You can contact me through my mail abdullah.enes.gules@gmail.com or my Linkedin profile https://www.linkedin.com/in/abdullah-enes-g%C3%BCle%C5%9F/
+## CONTACT
+### You can contact me through my mail abdullah.enes.gules@gmail.com or my Linkedin profile https://www.linkedin.com/in/abdullah-enes-g%C3%BCle%C5%9F/
 
 <!--
 **Abdusshh/Abdusshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
