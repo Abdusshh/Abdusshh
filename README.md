@@ -1,4 +1,4 @@
-## Hi 👋 My name is Abdullah and I am a computer engineering student in Boğaziçi University. 
+## Hi 👋 My name is Abdullah and I am a computer engineering student at Boğaziçi University. 
 ### I share my Data Science and Game Development projects in my repositories. 
 
 ## CONTACT
