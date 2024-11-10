@@ -1,4 +1,4 @@
-## Hi 👋 My name is Abdullah Enes and I am a computer engineering student at Boğaziçi University. 
+## My name is Abdullah Enes and I am a computer engineering student at Boğaziçi University. 
 ### I share my Web Development, Data Science and Game Development projects in my repositories.
 
 ## CONTACT
