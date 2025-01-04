@@ -1,7 +1,5 @@
 ## My name is Abdullah Enes and I am a computer engineering student at Boğaziçi University. 
-### I share my Web Development, Data Science and Game Development projects in my repositories.
 
-## CONTACT
 ### You can contact me through my mail abdullah.enes.gules@gmail.com or my [Linkedin profile](https://www.linkedin.com/in/abdullah-enes-g%C3%BCle%C5%9F/).
 
 <!--
