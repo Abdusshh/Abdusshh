@@ -1,6 +1,8 @@
-## My name is Abdullah Enes and I am a computer engineering student at Boğaziçi University. 
+## My name is Abdullah Enes.  
 
-### You can contact me through my mail abdullah.enes.gules@gmail.com or my [Linkedin profile](https://www.linkedin.com/in/abdullah-enes-g%C3%BCle%C5%9F/).
+### You can reach out to me anytime via email at [abdullah.enes.gules@gmail.com](mailto:abdullah.enes.gules@gmail.com) or through my [LinkedIn profile](https://www.linkedin.com/in/abdullah-enes-g%C3%BCle%C5%9F/).  
+
+### Feel free to chat about software engineering, food, traveling, skiing/skating, or anything else you're interested in!
 
 <!--
 **Abdusshh/Abdusshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
