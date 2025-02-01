@@ -1,6 +1,6 @@
 ## Hi, my name is Abdullah Enes 👋
 
-### If you'd like to chat about software engineering 💻, food 🍕, traveling ✈️, skiing/skating ⛷️⛸️, or anything else you're interested in, you can reach out to me anytime via email at [abdullah.enes.gules@gmail.com](mailto:abdullah.enes.gules@gmail.com) 📧 or through my [LinkedIn profile](https://www.linkedin.com/in/abdullah-enes-g%C3%BCle%C5%9F/) 🔗.  
+### If you'd like to chat about software engineering 💻, food 🍕, traveling ✈️, skiing/skating ⛷️⛸️, or anything else you're interested in, you can reach out to me anytime via email at [abdullah.enes.gules@gmail.com](mailto:abdullah.enes.gules@gmail.com) 📧 or through my [LinkedIn profile](https://www.linkedin.com/in/abdullah-enes-gules/) 🔗.  
 
 <!--
 **Abdusshh/Abdusshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
